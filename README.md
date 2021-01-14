@@ -28,7 +28,7 @@ Ve bunları da yapabilirsin:
   - Sunucu bilgi ve discordunuzu oyunculara iletebilirsiniz.
   - Whitelist (Eklenecek)
   - Açlık Sistemi (Eklenecek)
-
+  - Python destekli Anti-Cheat (Eklenecek)
 Scriptimizi kullanan sunucuların discord ve bilgilerini, Discord sunucumuzda herkesin kolaylıkla ulaşması için paylaşacağız.
 
 > Henüz eklenmeyen özellikler yakında eklenecektir.
@@ -82,7 +82,7 @@ strings.txt
 Üçüncü Adım:
 Açtığınız not defterinde CTRL+F tuşuna basarak "dc_adresi" adlı yazıyı aratınız
 ```sh
-CTRL+F ve "dcadresi"
+CTRL+F ve "dc_adresi"
 ```
 
 Dördüncü Adım:
