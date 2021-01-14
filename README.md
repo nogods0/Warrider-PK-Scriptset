@@ -29,6 +29,7 @@ Ve bunları da yapabilirsin:
   - Whitelist (Eklenecek)
   - Açlık Sistemi (Eklenecek)
   - Python destekli Anti-Cheat (Eklenecek)
+  
 Scriptimizi kullanan sunucuların discord ve bilgilerini, Discord sunucumuzda herkesin kolaylıkla ulaşması için paylaşacağız.
 
 > Henüz eklenmeyen özellikler yakında eklenecektir.
