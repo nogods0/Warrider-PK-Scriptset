@@ -1,5 +1,5 @@
 stringsfile version 1
-820
+825
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -814,6 +814,11 @@ str_chat_me_format *_{s1}_{s31}
 str_chat_do_format -_{s31}_({s1})
 str_chat_whisper_format {s1}_fisildar:_{s31}
 str_chat_ooc_format [OOC]_{s1}:_{s31}
+str_you_send_your_horse Atini_ahira_geri_gonderdin.
+str_call_back_your_horse Atini_ahirdan_geri_cagirdin.
+str_whitelist_inform Bu_sunucuda_kaydin_bulunmamaktadir!
+str_whitelist_inform_2 Kayit_olmak_istiyorsaniz_lutfen_bu_adrese_ulasiniz:_www.ornekadres.com
+str_your_character_is_hungry *Karnin_guruldar.*^*Karninin_aciktigini_hissediyorsun._En_yakin_zamanda_yemek_bulmalisin.*
 str_please_explain_ban_reason Ban_sebebini_aciklayiniz:
 str_perm_banned_target Sunucudan_kalici_olarak_yasaklandin.
 str_perm_banned_admin Oyuncu_kalici_olarak_yasaklandi._{s9}[{reg5}].

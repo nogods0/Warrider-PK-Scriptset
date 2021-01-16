@@ -313,6 +313,7 @@ g_loop_animal_herd_leader
 g_loop_animal_herd_begin
 g_time_last_herd_animal_disappeared
 g_recent_nearby_deaths_factor
+g_whitelist
 g_edit_scene
 g_herd_animal_count
 g_weather_volatility
@@ -326,8 +327,10 @@ g_current_fog_distance
 g_current_fog_red
 g_current_fog_green
 g_current_fog_blue
+g_horsekomutu
 g_last_lighting_update_time
 skybox_current
+g_aclik
 g_fire_place_instance_no
 g_fish_school_instance_no
 g_herd_animal_spawn_instance_no
