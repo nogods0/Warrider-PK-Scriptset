@@ -111,6 +111,6 @@ starving = 0
 horsekomutu = 0
 #Warrider End
 ```
-şeklinde düzenleyebilirsiniz.
+Şeklinde düzenleyebilirsiniz.
 
 ## Son!
