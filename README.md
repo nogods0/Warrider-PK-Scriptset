@@ -26,8 +26,9 @@
 
 Ve bunları da yapabilirsin:
   - Sunucu bilgi ve discordunuzu oyunculara iletebilirsiniz.
-  - Whitelist (Eklenecek)
-  - Açlık Sistemi (Eklenecek)
+  - Whitelist
+  - Açlık Sistemi
+  - Ahır Sistemi  
   - Python destekli Anti-Cheat (Eklenecek)
   
 Scriptimizi kullanan sunucuların discord ve bilgilerini, Discord sunucumuzda herkesin kolaylıkla ulaşması için paylaşacağız.
@@ -35,7 +36,7 @@ Scriptimizi kullanan sunucuların discord ve bilgilerini, Discord sunucumuzda he
 > Henüz eklenmeyen özellikler yakında eklenecektir.
 > Scriptsetinizi güncel tutmaya özen gösterin.
 > Sizlerin geri beslemesiyle daha fazla özellik ekleyeceğiz.
-> Warrider, v1.0.0.0 - 2021
+> Warrider, v1.0.1.0 - 2021
 
 ## Kurulum
 
@@ -92,4 +93,21 @@ Bilgileri kendinize ait olacak şekilde düzenleyiniz!
 str_dc_adresi discord.gg/adres # Adres kısmına kendi discord davetinizi
 str_backend_link http://127.0.0.1/backend # Kendi belirlerdiğiniz backend dosya ismini
 ```
+
+Ekstra:
+Sunucuda olup veya olmamasını istediğiniz özelliklere karar vermeniz için.
+```sh
+C:\Users\...\Dedicated\Modules\Persistent Kingdoms\module.ini
+```
+
+Adlı dosyayı açıp oradan:
+```sh
+#Warrider Start (On=1/Off=0)
+whitelist = 0
+starving = 0
+horsekomutu = 0
+#Warrider End
+```
+şeklinde düzenleyebilirsiniz.
+
 ## Son!
