@@ -1,7 +1,7 @@
 # Warrider (PK)
 ![Warrider](https://steamcdn-a.akamaihd.net/steam/apps/48700/header.jpg?t=1589227310 "Warrider")
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)  Discord: https://discord.gg/epcAFzaX3x
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)  Discord: https://discord.gg/epcAFzaX3x v1.0.1.0
 
 ##### Mount & Blade: Warband, Persistent Kingdoms Modu için yapılmış bir Scriptset çalışmasıdır.
 
@@ -92,6 +92,9 @@ Bilgileri kendinize ait olacak şekilde düzenleyiniz!
 ```sh
 str_dc_adresi discord.gg/adres # Adres kısmına kendi discord davetinizi
 str_backend_link http://127.0.0.1/backend # Kendi belirlerdiğiniz backend dosya ismini
+
+Opsiyonel:
+str_whitelist_inform_2 Kayit_olmak_istiyorsaniz_lutfen_bu_adrese_ulasiniz:_www.ornekadres.com
 ```
 
 Ekstra:
