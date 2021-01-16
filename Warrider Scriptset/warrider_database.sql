@@ -39,6 +39,16 @@ CREATE TABLE `ban_list` (
 -- --------------------------------------------------------
 
 --
+-- Tablo için tablo yapısı `whitelist`
+--
+
+CREATE TABLE `whitelist` (
+  `id` int(10) UNSIGNED NOT NULL,
+  `guid` varchar(11) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
 -- Tablo için tablo yapısı `evler`
 --
 
@@ -59,6 +69,7 @@ CREATE TABLE `evler` (
 
 CREATE TABLE `pw_admin_permler` (
   `id` int(11) NOT NULL,
+  `name` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `guid` int(11) NOT NULL,
   `gold` int(11) NOT NULL DEFAULT 0,
   `kick` int(11) NOT NULL DEFAULT 0,
