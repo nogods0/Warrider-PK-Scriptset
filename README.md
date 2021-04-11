@@ -1,7 +1,7 @@
 # Warrider (PK)
 ![Warrider](https://steamcdn-a.akamaihd.net/steam/apps/48700/header.jpg?t=1589227310 "Warrider")
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)  Discord: https://discord.gg/epcAFzaX3x v1.0.1.0
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) v1.0.1.0
 
 ##### Mount & Blade: Warband, Persistent Kingdoms Modu için yapılmış bir Scriptset çalışmasıdır.
 
@@ -30,8 +30,6 @@ Ve bunları da yapabilirsin:
   - Açlık Sistemi
   - Ahır Sistemi  
   - Python destekli Anti-Cheat (Eklenecek)
-  
-Scriptimizi kullanan sunucuların discord ve bilgilerini, Discord sunucumuzda herkesin kolaylıkla ulaşması için paylaşacağız.
 
 > Henüz eklenmeyen özellikler yakında eklenecektir.
 > Scriptsetinizi güncel tutmaya özen gösterin.
